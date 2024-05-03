@@ -25,6 +25,9 @@
 *.log
 *.sql
 *.sqlite
+*.db
+*.opendb
+*.vsidx
 
 # OS generated files #
 ######################
