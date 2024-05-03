@@ -36,6 +36,9 @@
     <ClCompile Include="Prac4_Func.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0503)namespace.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Prac4_Func.h">

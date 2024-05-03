@@ -142,8 +142,13 @@
     <ClCompile Include="0430%29Prac2.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="0502)Prac4_Redisign.cpp" />
-    <ClCompile Include="Prac4_Func.cpp" />
+    <ClCompile Include="0502)Prac4_Redisign.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0503)namespace.cpp" />
+    <ClCompile Include="Prac4_Func.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Prac4_Func.h" />
