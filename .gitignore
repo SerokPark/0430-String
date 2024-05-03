@@ -40,3 +40,7 @@ Thumbs.db
 *.vsidx
 *.db
 *.ipch
+*.vsidx
+
+.vs/
+{yourgitprojectname}/.vs
