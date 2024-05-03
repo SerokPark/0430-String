@@ -11,6 +11,7 @@
 // 1. 앞서 만들었던 헤더 파일을 main함수가 있는 파일에서 불러오기
 // 2. 앞서 만들었던 헤더 파일에 있는 내용을 적절한 namespace 이름으로 감싸기
 // 3. main 함수가 있는 파일에서 헤더에 있는 내용을 namespace를 거쳐서 사용하기
+//
 
 using namespace std;
 using namespace Info_Control;
